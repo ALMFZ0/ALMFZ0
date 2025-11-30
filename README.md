@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  
+  <!-- Animated SVG Banner -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C72F7&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+YAHYA+%F0%9F%91%8B;Programming+Enthusiast;Developer" alt="Typing SVG" /></a>
 
-<!--
-**ALMFZ0/ALMFZ0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,js,postman,vscode,linux,github,githubactions,bash,terraform,ansible,prometheus,grafana,elasticsearch,nestjs,nextjs,nginx,prisma,jenkins,kubernetes" />
+  </a>
+</p>
+  
+  <!-- Dynamic Commit Stats -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tweakkin&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
